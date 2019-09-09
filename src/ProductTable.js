@@ -6,7 +6,6 @@ import ProductCategoryRow from './ProductCategoryRow';
 console.log(productData);
 
 function ProductTable(props){
-
     let tempProducts = {}; 
     productData.data.forEach((product,i)=>{
         // run some quick code to see if this is a new cat
