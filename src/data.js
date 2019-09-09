@@ -30,7 +30,13 @@ export default {
 			price: '$99.99',
 			name: 'iPod Touch',
 			inStock: true
-		},
+        },
+		{
+			category: 'Shoes',	
+			price: '$199.99',
+			name: 'Jimmy Choo Awesome',
+			inStock: true
+		},    
 		{
 			category: 'Electronics',	
 			price: '$399.99',
@@ -42,6 +48,12 @@ export default {
 			price: '$199.99',
 			name: 'Nexus 7',
 			inStock: true
-		}
+        },
+		{
+			category: 'Sporting Goods',	
+			price: '$199.99',
+			name: 'Boxing Gloves',
+			inStock: true
+		}        
 	]	
 }
