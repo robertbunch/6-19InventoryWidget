@@ -31,6 +31,7 @@ function ProductTable(props){
         })
     }
     
+    console.log(props.search);
 
 
     return(
